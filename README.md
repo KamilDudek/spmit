@@ -5,6 +5,9 @@ Implementacja projektu na zajęcia Sterowanie Produkcją Magazynową i Transport
 
 System wspomagający pracę kuriera. W zależności od natężenia ruchu i ilości paczek, które musi dostarczyć do danych paczkomatów, system wyznacza optymalną trasę pod względem czasu.
 
+## Aplikacja dostępna na stronie:
+https://spmit.netlify.app/
+
 ## Praca z projektem
 
 ### Commit Message
